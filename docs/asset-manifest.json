@@ -1,29 +1,40 @@
 {
   "files": {
-    "main.css": "/static/css/main.e19345db.css",
-    "main.js": "/static/js/main.96cde9f8.js",
+    "main.css": "/static/css/main.8a4fed27.css",
+    "main.js": "/static/js/main.e78825a0.js",
+    "static/media/app.png": "/static/media/app.df339eacf880dc38175b.png",
     "static/media/portrait_white.png": "/static/media/portrait_white.f17d0a11af6fd4e5cfda.png",
     "static/media/portrait_black.png": "/static/media/portrait_black.f051c7a2a67b64a94531.png",
-    "static/media/header.jpg": "/static/media/header.9ee5a121426ba4b078bd.jpg",
     "static/media/landscape_black.png": "/static/media/landscape_black.119d326c995c472dbad8.png",
-    "static/media/antoine-barres.jpg": "/static/media/antoine-barres.bc3299c239c25e5bf937.jpg",
+    "static/media/Slide04.jpg": "/static/media/Slide04.1796a9dbd0ca1881b1f7.jpg",
     "static/media/landscape_white.png": "/static/media/landscape_white.62063fa5f665be150dc0.png",
     "static/media/portrait_gold.png": "/static/media/portrait_gold.68b17216dc5ec1cd29e6.png",
+    "static/media/Others01.jpg": "/static/media/Others01.d0623140a60a601e9938.jpg",
     "static/media/landscape_gold.png": "/static/media/landscape_gold.78efbdc6dabd91a0b693.png",
+    "static/media/Slide05.jpg": "/static/media/Slide05.b354a8fdc71635670671.jpg",
     "static/media/landscape_pink.png": "/static/media/landscape_pink.48170a4fc18eb03df930.png",
     "static/media/portrait_pink.png": "/static/media/portrait_pink.1585db130f00c8eb7857.png",
+    "static/media/Slide07.jpg": "/static/media/Slide07.65fa65be8471c67a200c.jpg",
+    "static/media/Slide03.jpg": "/static/media/Slide03.603632e15777474704d6.jpg",
+    "static/media/Slide06.jpg": "/static/media/Slide06.321dffcb30098cea8eb7.jpg",
+    "static/media/Slide08.jpg": "/static/media/Slide08.da014b6c1fd40ae538bc.jpg",
+    "static/media/mac.jpeg": "/static/media/mac.ef284f615c9ecc193ca8.jpeg",
+    "static/media/Slide01.jpg": "/static/media/Slide01.5e75e88c7793ded40f15.jpg",
     "static/media/landscape_red.png": "/static/media/landscape_red.af7d18d2c9acdafa1bb5.png",
     "static/media/nucleo-icons.eot": "/static/media/nucleo-icons.bd42d77b9672555647d1.eot",
     "static/media/nucleo-icons.ttf": "/static/media/nucleo-icons.4466aeec3386b965a232.ttf",
     "static/media/nucleo-icons.woff": "/static/media/nucleo-icons.8e954b749f951b654fc6.woff",
     "static/media/nucleo-icons.woff2": "/static/media/nucleo-icons.ec16bc4cc4526801004d.woff2",
     "static/media/portrait_red.png": "/static/media/portrait_red.7ea49bd24a1b23d715be.png",
+    "static/media/Others.jpg": "/static/media/Others.f0738ab913e5c65ae1d0.jpg",
+    "static/media/Client4.png": "/static/media/Client4.95880db68725edd7616c.png",
+    "static/media/Client1.png": "/static/media/Client1.490edd5507f8f9d9d332.png",
     "index.html": "/index.html",
-    "main.e19345db.css.map": "/static/css/main.e19345db.css.map",
-    "main.96cde9f8.js.map": "/static/js/main.96cde9f8.js.map"
+    "main.8a4fed27.css.map": "/static/css/main.8a4fed27.css.map",
+    "main.e78825a0.js.map": "/static/js/main.e78825a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.e19345db.css",
-    "static/js/main.96cde9f8.js"
+    "static/css/main.8a4fed27.css",
+    "static/js/main.e78825a0.js"
   ]
 }

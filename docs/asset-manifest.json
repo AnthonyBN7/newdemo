@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.507fbb63.css",
-    "main.js": "/static/js/main.998128d9.js",
-    "static/js/787.8f9d60c3.chunk.js": "/static/js/787.8f9d60c3.chunk.js",
-    "static/media/Graphik-Semibold.woff2": "/static/media/Graphik-Semibold.53485f6bfd16ad68f3a6.woff2",
-    "static/media/Graphik-Medium.woff2": "/static/media/Graphik-Medium.5bfaca03149b1dd572e3.woff2",
-    "static/media/Graphik-Regular.woff2": "/static/media/Graphik-Regular.7a9feded14088a0fa206.woff2",
-    "static/media/fleet.svg": "/static/media/fleet.25bef37985dec0895231f2e9666097e8.svg",
-    "static/media/logo6.jpeg": "/static/media/logo6.66847fbca9a9bfbbbe2d.jpeg",
-    "index.html": "/index.html",
-    "main.507fbb63.css.map": "/static/css/main.507fbb63.css.map",
-    "main.998128d9.js.map": "/static/js/main.998128d9.js.map",
-    "787.8f9d60c3.chunk.js.map": "/static/js/787.8f9d60c3.chunk.js.map",
+    "main.css": "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css",
+    "main.js": "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js",
+    "static/js/787.8f9d60c3.chunk.js": "https://anthonybn7.github.io/newdemo/static/js/787.8f9d60c3.chunk.js",
+    "static/media/Graphik-Semibold.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Semibold.53485f6bfd16ad68f3a6.woff2",
+    "static/media/Graphik-Medium.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Medium.5bfaca03149b1dd572e3.woff2",
+    "static/media/Graphik-Regular.woff2": "https://anthonybn7.github.io/newdemo/static/media/Graphik-Regular.7a9feded14088a0fa206.woff2",
+    "static/media/fleet.svg": "https://anthonybn7.github.io/newdemo/static/media/fleet.25bef37985dec0895231f2e9666097e8.svg",
+    "static/media/logo6.jpeg": "https://anthonybn7.github.io/newdemo/static/media/logo6.66847fbca9a9bfbbbe2d.jpeg",
+    "index.html": "https://anthonybn7.github.io/newdemo/index.html",
+    "main.507fbb63.css.map": "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css.map",
+    "main.998128d9.js.map": "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js.map",
+    "787.8f9d60c3.chunk.js.map": "https://anthonybn7.github.io/newdemo/static/js/787.8f9d60c3.chunk.js.map",
     "homepage": "."
   },
   "entrypoints": [
     
-    "static/css/main.507fbb63.css",
-    "static/js/main.998128d9.js"
+    "https://anthonybn7.github.io/newdemo/static/css/main.507fbb63.css",
+    "https://anthonybn7.github.io/newdemo/static/js/main.998128d9.js"
   ]
 }

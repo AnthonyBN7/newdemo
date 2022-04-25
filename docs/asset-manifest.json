@@ -11,9 +11,11 @@
     "index.html": "/index.html",
     "main.507fbb63.css.map": "/static/css/main.507fbb63.css.map",
     "main.998128d9.js.map": "/static/js/main.998128d9.js.map",
-    "787.8f9d60c3.chunk.js.map": "/static/js/787.8f9d60c3.chunk.js.map"
+    "787.8f9d60c3.chunk.js.map": "/static/js/787.8f9d60c3.chunk.js.map",
+    "homepage": "."
   },
   "entrypoints": [
+    
     "static/css/main.507fbb63.css",
     "static/js/main.998128d9.js"
   ]
